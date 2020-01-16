@@ -1,12 +1,11 @@
-Curso de JavaScript
+Curso básico de APIs com Nodejs + Express + Mongodb
 ===============================================
 
-- Eventos, Formulários e Criando elementos
-- Boas Praticas com javascript
-- Validação de formularios
-- Remoção, Delegação e Animação
-- Filtrando tabela
-- Ajax buscando paciente
-
+- Criação de API's robustas utilizando Nodejs + Express + Mongodb
+- Modelagem básica de banco de dados
+- Melhores práticas de javascript
+- Criptografia de campos sensíveis
+- Autenticação de usuários
+- Organizar seus projetos em Nodejs
 --------------------
 
